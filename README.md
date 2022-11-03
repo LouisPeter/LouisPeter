@@ -1,2 +1,4 @@
-![](https://raw.githubusercontent.com/LouisPeter/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LouisPeter/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/LouisPeter/Github_stats/blob/master/generated/overview.svg" alt="Overview"/>
+  <img src="https://github.com/LouisPeter/Github_stats/blob/master/generated/languages.svg" alt="Languages"/>
+</p>
